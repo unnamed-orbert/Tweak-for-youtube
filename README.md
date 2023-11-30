@@ -1,5 +1,7 @@
 # Tweaks for YouTube por InzkDev
 
+Nota: Alteraçãoes feitas são apenas nos textos e não no codigo!!
+
 Extensão de navegador para YouTube (incluindo vídeos incorporados), YouTube Music e vídeos do Google Drive
 
 Mais de 100 recursos disponíveis! Os recursos estão desativados por padrão - explore a página Pop-up e Opções da extensão e ative os que você precisa. Após a instalação, recarregue todas as páginas do YouTube!
